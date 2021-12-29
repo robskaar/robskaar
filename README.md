@@ -1,4 +1,4 @@
-### Hi there, i'm Robert Bjørnstjerne Skaar 👋
+### Hi, I'm Robert Bjørnstjerne Skaar 👋
 
 - 🔭 I’m currently working on a TypeScript Web component suite.
 - 🌱 I’m currently learning React.
