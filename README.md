@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Robskaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robskaar)](https://github.com/Robskaar/github-readme-stats&count_private=true&show_icons=true)
+[![Robskaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robskaar&count_private=true&show_icons=true)](https://github.com/Robskaar/github-readme-stats)
 
 <!--
 **robskaar/robskaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
