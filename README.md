@@ -1,4 +1,4 @@
-# Hi, I'm Robert Bjørnstjerne Skaar 👋
+## Hi, I'm Robert Bjørnstjerne Skaar 👋
 
 - 🔭 I’m currently working on a TypeScript Web component suite.
 - 🌱 I’m currently learning React.
@@ -15,20 +15,20 @@
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-### Also worked with
+<br/>
+Also worked with
+<br/>
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![PYTHON Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Xamarin Badge](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)](#)
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 
-### Github stats
+### My Github stats
 [![Robskaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robskaar&count_private=true&show_icons=true&theme=dracula&hide_border=true)](#)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robskaar&layout=compact&theme=dracula&hide_border=true)](#) 
 <br/>
-
-### Profile Visits 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=robskaar.robskaar)
 
 
