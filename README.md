@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on a TypeScript Web component suite.
 - 🌱 I’m currently learning React.
+- 😄 Pronouns: Robert, Robskaar, Skaar, Bjørnstjerne
+- 💻 Most used line of code `condition?doSomething(true):doSomething(false);`
 - 👯 I’m looking to collaborate on any OS projects i can help with, be it documentation or code.
 
   
@@ -35,10 +37,8 @@ Also worked with
 <!--
 Here are some ideas to get you started:
 
-
-- 📫 How to reach me: 
-
 - 🤔 I’m looking for help with ...
+- 📫 How to reach me: 
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
