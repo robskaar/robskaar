@@ -5,7 +5,7 @@
 - 😄 Pronouns: Robert, Robskaar, Skaar, Bjørnstjerne
 - 💻 Most used line of code `hadCoffee ? canWork=true : canWork=false;`
 - 👯 I’m looking to collaborate on any OS projects i can help with, be it documentation or code.
-- ⚡ Fun fact: I've worked in the Danish army in a NATO unit as Server Administrator for about 5 years, before getting back to school studying CS
+- ⚡ Fun fact: Before getting back to school studying CS, I worked in a NATO unit in the Danish army as a Server Admin.
 
 #### Technologies
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
