@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Robskaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robskaar&count_private=true&show_icons=true)](https://github.com/Robskaar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robskaar&layout=compact)](https://github.com/Robskaar/github-readme-stats)
+[![Robskaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robskaar&count_private=true&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robskaar&layout=compact)]
 
 <!--
 **robskaar/robskaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
