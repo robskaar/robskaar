@@ -5,7 +5,6 @@
 - 😄 Pronouns: Robert, Robskaar, Skaar, Bjørnstjerne
 - 💻 Most used line of code `hadCoffee ? canWork=true : canWork=false;`
 - 👯 I’m looking to collaborate on any OS projects i can help with, be it documentation or code.
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   
 #### Technologies
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
