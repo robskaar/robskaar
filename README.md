@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on a TypeScript Web component suite.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on any OS projects i can help with, be it documentation or code.
+
+### Competent within following technologies
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
