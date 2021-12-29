@@ -4,16 +4,8 @@
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on any OS projects i can help with, be it documentation or code.
 
-### Github stats
-[![Robskaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robskaar&count_private=true&show_icons=true&theme=dracula&hide_border=true)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robskaar&layout=compact&theme=dracula&hide_border=true)](#) 
-<br/>
-
-### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=robskaar.robskaar)
   
-### Competent within
+### Mainly working with
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -29,6 +21,16 @@
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Xamarin Badge](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)](#)
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
+
+### Github stats
+[![Robskaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robskaar&count_private=true&show_icons=true&theme=dracula&hide_border=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robskaar&layout=compact&theme=dracula&hide_border=true)](#) 
+<br/>
+
+### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=robskaar.robskaar)
+
 
 <!--
 Here are some ideas to get you started:
