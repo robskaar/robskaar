@@ -17,9 +17,8 @@
 <br/>
 <details>
 <summary>
- test2
+ Also touched following technologies
 </summary>
- ###  Also touched following technologies
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![PYTHON Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
