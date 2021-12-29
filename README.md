@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a TypeScript Web component suite.
 - 🌱 I’m currently learning React.
 - 😄 Pronouns: Robert, Robskaar, Skaar, Bjørnstjerne
-- 💻 Most used line of code `condition?doSomething(true):doSomething(false);`
+- 💻 Most used line of code `hadCoffee ? canWork=true : canWork=false;`
 - 👯 I’m looking to collaborate on any OS projects i can help with, be it documentation or code.
 
   
