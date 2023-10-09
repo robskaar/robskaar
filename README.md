@@ -1,9 +1,9 @@
 ## Hi, I'm Robert Bjørnstjerne Skaar 👋
 
 - 🔭 I’m currently working on a TypeScript Web component suite.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning GLSL, Blender & OpenGL.
 - 😄 Pronouns: Robert, Robskaar, Skaar, Bjørnstjerne
-- 💻 Most used line of code `hadCoffee ? canWork=true : canWork=false;`
+- 💻 Most used line of code `let canWork = hadCoffee === true ? hadCoffee : drinkCoffee();`
 - 👯 I’m looking to collaborate on any OS projects i can help with, be it documentation or code.
 
 #### Technologies
